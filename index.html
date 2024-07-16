@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/png" href="media/coding.png">
+
+    <!--Styles-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="css/main-style.css">
+
+    <!--Scripts-->
+    <script src="https://kit.fontawesome.com/a5911a690a.js" crossorigin="anonymous"></script>
+    <script src="js/navbar.js"></script>
+    <script src="js/timeGreeting.js"></script>
+
+    <title>Hongfei's Portfolio</title>
+</head>
+
+<body class="has-text-bold is-size-5">
+    <!--Navbar-->
+    <nav class="navbar has-shadow is-black">
+        <div class="navbar-brand">
+            <a class="navbar-item has-background-white has-text-black" href="index.html">
+                <i class="fas fa-keyboard fa-lg"></i>
+            </a>
+
+            <a role="button" class="navbar-burger" data-target="navbarBasicExample">
+                <span></span>
+                <span></span>
+                <span></span>
+            </a>
+        </div>
+
+        <div id="navbarBasicExample" class="navbar-menu has-text-black">
+            <div class="navbar-start">
+                <a class="navbar-item has-background-white has-text-black" href="index.html">
+                    <i class="fas fa-house fa-lg"></i>
+                    &nbsp
+                    Home
+                </a>
+
+                <a class="navbar-item" href="works.html">
+                    <i class="fas fa-laptop fa-lg"></i>
+                    &nbsp
+                    Works
+                </a>
+
+                <a class="navbar-item" href="about.html">
+                    <i class="fas fa-user-tie fa-lg"></i>
+                    &nbsp
+                    About
+                </a>
+            </div>
+
+            <div class="navbar-end">
+                <a class="navbar-item" href="https://github.com/hz1220">
+                    <i class="fab fa-square-github fa-lg"></i>
+                </a>
+
+                <a class="navbar-item" href="https://www.linkedin.com/in/hongfei-zhu/">
+                    <i class="fab fa-linkedin fa-lg"></i>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="content p-3 m-3">
+        <div class="columns is-vcentered">
+            <div class="column is-8 is-offset-2">
+                <div id="greetingBubble">
+                    <h1 id="greeting" class="title has-text-light"></h1>
+                    <p class="is-size-2 has-text-light">I'm Hongfei Zhu, an adept programmer, game
+                        designer, and web developer.</p>
+                </div>
+                <div id="userBubble" class="columns">
+                    <div class="column is-full">
+                        <a href="works.html" class="button is-outlined is-light is-size-4 is-fullwidth mb-3 mt-5">Show me your work!</a>
+                        <a href="about.html"class="button is-outlined is-light is-size-4 is-fullwidth">Tell me about yourself!</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!--Footer-->
+    <nav class="navbar has-shadow is-black is-fixed-bottom">
+        <h2 class="navbar-item has-text-white">Hongfei Zhu 2023</h2>
+    </nav>
+</body>
+
+</html>

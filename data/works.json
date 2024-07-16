@@ -1,0 +1,187 @@
+{
+    "games" : {
+        "description" : "Games, prototypes, and other specifically game-related projects I have worked on over the past few years.",
+        "content" : [
+            {
+                "title" : "Dragonscale",
+                "created" : "November 2023",
+                "tech" : "<i class=\"fa-solid fa-cube\"></i> Blender, <i class=\"fa-brands fa-github\"></i> Github, <i class=\"fa-brands fa-unity\"></i> Unity 3D, <i class=\"fa-brands fa-unity\"></i> Unity Universal Render Pipeline, <i class=\"fa-brands fa-unity\"></i> Unity Shader Graph, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "A challenging platformer about returning a dragon's lost scale. Lead our daring protagonist Durg on this adventure! Produced with my GameJam group for the 2023 GitHub Game Off.",
+                "points": [
+                    "Group GameJam project",
+                    "Utilizes fully self made assets",
+                    "Original textured and animated characters and UI assets",
+                    "Organized code",
+                    "Originally made with Godot"
+                ],
+                "link": "https://marsoupial.itch.io/dragonscale",
+                "img": "media/dragonscale.png"
+            },
+            {
+                "title" : "Door Pickers",
+                "created" : "February 2024",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> Visual Studio Code, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> ParadoxScript",
+                "details": "A point-and-click roguelike dungeon crawler that will test your mettle. Descend to the 15th floor of the dungeon and best the mighty Minotaur! Originally made with Godot in one week for Brackeys Game Jam 11. This game has received updates since the original jam submission.",
+                "points": [
+                    "Group GameJam project",
+                    "Utilizes fully self made assets",
+                    "Original game music",
+                    "Originally made with Godot"
+                ],
+                "link": "https://marsoupial.itch.io/door-pickers",
+                "img": "media/doorPickers.png"
+            },
+            {
+                "title" : "Potions of Anxiety",
+                "created" : "October 2022 - November 2022",
+                "tech" : "<i class=\"fa-solid fa-pen-nib\"></i> Twine, <i class=\"fa-solid fa-paintbrush\"></i> Corel Painter Essentials 5, <i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript",
+                "details": "This is an interactive narrative I made for my Introduction to Interactive Narratives class in Fall 2022. Utilizing Twine, storytelling techniques, and basic CSS styling, I tried my hand at writing a narrative with multiple endings. ",
+                "points": [
+                    "Academic project",
+                    "Interactive narrative featuring player choice",
+                    "Basic CSS styling and HTML formatting",
+                    "First attempt at writing original story"
+                ],
+                "link": "https://people.rit.edu/lpd8987/529/Twine3/Potions%20of%20Anxiety.html",
+                "img": "media/potions-of-anxiety.png"
+            },
+            {
+                "title" : "Abaddon",
+                "created" : "January 2022 - May 2022",
+                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 3D, <i class=\"fa-brands fa-unity\"></i> Unity HDRP Render Pipeline, <i class=\"fa-solid fa-code-branch\"></i> Perforce Version Control, <i class=\"fa-solid fa-file\"></i> Confluence (Documentation), <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "This is a senior capstone project hosted by the ArtCenter College of Design in California which I had the opportunity to work on in Spring 2022. As a programmer, my job was to create different dialogue systems using Unity's scriptable objects and coroutines. There were 3 different types of dialogue to implement: Ambient- triggered by walking up to NPCs and LERPing opacity, Tutorial- triggered by game events, and repeats until a specific condition is met, and Conversational- dialogue that creates a back-and-forth character interaction with different dialogue choices.",
+                "points": [
+                    "Academic project",
+                    "Acted as developer on a senior capstone project",
+                    "Ambient Dialouge- triggered by walking up to NPCs and LERPing opacity",
+                    "Tutorial Dialogue- triggered by game events, and repeats until a specific condition is met",
+                    "Conversational Dialogue- dialogue that creates a back-and-forth character interaction with different dialogue choices."
+                ],
+                "link": "https://joshmontague.itch.io/abaddon",
+                "img": "media/abaddon.png"
+            },
+            {
+                "title" : "The Dungeon Under Chicago",
+                "created" : "October 2021 - November 2021",
+                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "This is a prototype rouge-like I worked on as part of a group project Game Development class. During this project, I acted as project lead, helping guide the overall vision of the game through conceptualization and asset production using Aseprite to create and animate sprites. I also helped with some scripting behaviors and incorporation of level design. ",
+                "points": [
+                    "Academic project",
+                    "2D rouge-like prototype featuring retro art style",
+                    "Asset production using Aseprite",
+                    "Original game music",
+                    "Basic enemy AI scripting behaviors (shooting projectiles, follow player)"
+                ],
+                "link": "https://drive.google.com/file/d/15a3NdPe33SgQ-iY6E-pGK0sNPjiGkSqE/view",
+                "git": "https://github.com/Aaron875/The-Dungeon-Under-Chicago-",
+                "img": "media/dungeon.png"
+            },
+            {
+                "title" : "Wizdoku",
+                "created" : "September 2021 - October 2021",
+                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "This is a prototype puzzle game I worked on as part of a group project Game Development class. During this project, I acted as asset lead, helping guide the overall vision of the game through conceptualization and asset production and implementation. I also helped create the basic AI for the opponent.",
+                "points": [
+                    "Academic project",
+                    "2D puzzle game prototype featuring retro art style",
+                    "Asset production using Aseprite",
+                    "Basic enemy AI strategy (place tile) and tile effects"
+                ],
+                "link" : "https://drive.google.com/file/d/1Rt5TuJuowQR3yeLGgneKMt5DjSomkKRL/view",
+                "git" : "https://github.com/Aaron875/WizDoku",
+                "img": "media/wizdoku.png"
+            }
+        ]
+    },
+    "webApps" : {
+        "description" : "Web applications, websites, and web games I have worked on over the past few years.",
+        "content" : [
+            {
+                "title" : "Coin Collector",
+                "created" : "November 2022 - December 2022",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-node-js\"></i> NodeJS, <i class=\"fa-brands fa-react\"></i> ReactJS, <i class=\"fa-brands fa-node-js\"></i> ExpressJS, <i class=\"fa-brands fa-square-js\"></i> PixiJS, <i class=\"fa-solid fa-database\"></i> Mongo DB, <i class=\"fa-solid fa-database\"></i> Redis, <i class=\"fa-solid fa-server\"></i> Heroku, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-circle-notch\"></i> Circle CI",
+                "details": "I created this web application for my Rich Media Applications II class. The focus of the app is leveraging backend frameworks via NodeJS and Mongo DB to create the experience of an online game that people can log on and try to climb the leaderboard. The game itself is very simple, but challenging, and the website affords users a multitude of options update their account information.",
+                "points": [
+                    "Academic project",
+                    "Web application leveraging backend frameworks",
+                    "Simple, yet challenging game made with Pixi JS",
+                    "Account management system"
+                ],
+                "link": "https://ld-project-2.herokuapp.com/",
+                "git": "https://github.com/lpd8987/430-Project-2",
+                "img": "media/coin-collector.png"
+            },
+            {
+                "title" : "Appunti Italiani - API",
+                "created" : "September 2022 - October 2022",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-node-js\"></i> NodeJS, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-server\"></i> Heroku, <i class=\"fa-solid fa-circle-notch\"></i> Circle CI",
+                "details": "This is an API and web application I created for my Rich Media Applications II class. It is a simple API that uses Node JS to get vocabulary words and definititions from a list of terms for users to post to a central vocabulary study list. It is certainly a project that I would like to expand upon at some point due to my interest in Italian language.",
+                "points": [
+                    "Academic project",
+                    "Web application using Node JS and frontend languages",
+                    "Simple API that lets users make a list of vocabulary words"
+                ],
+                "link": "https://appunti-italiani-api.herokuapp.com/",
+                "git": "https://github.com/lpd8987/430-Project-1",
+                "img": "media/italian-api.png"
+            },
+            {
+                "title" : "Dead by Memelight",
+                "created" : "August 2022",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> Local Storage",
+                "details": "This is a simple independent project I spent a few days creating in August 2022 for myself and my friends. Drawing from a set of data, it generates perk and gear loadouts either randomized or of my own creation for players. I am in no way affiliated with the Behaviour game studio, and I made it clear in the application itself that the app is fanmade and not officially affiliated with the game or studio. Regardless, the application served my friends and I well during our game nights, and anyone else who would like to use it is more than welcome to!",
+                "points": [
+                    "Independent project",
+                    "Web application using frontend languages",
+                    "Generates player builds and gear from a set of data"
+                ],
+                "link": "https://people.rit.edu/lpd8987/DeadByMemelight/",
+                "git": "https://github.com/lpd8987/DeadByMemelight",
+                "img": "media/dead-by-memelight.png"
+            },
+            {
+                "title" : "Jello Jump",
+                "created" : "April 2022 - May 2022",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-html5\"></i> HTML Canvas, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> Local Storage, <i class=\"fa-brands fa-square-js\"></i> MatterJS, <i class=\"fa-brands fa-github\"></i> GitHub",
+                "details": "This is a project I worked on in tandem with a teammate for my Rich Media Applications I class. We created a 2D platformer web game using a combination of Matter JS- a physics simulation JavaScript framework, and HTML Canvas. Additional challenge was added to the game by posing the challenge to players to get the fastest time they could while grabbing collectibles. In particular, I spent most of my time setting up the game and its assets. My teammate was responsible for the overall styling of the site and our custom components",
+                "points": [
+                    "Academic project",
+                    "Web application and 2D platformer using frontend languages and frameworks",
+                    "Challenges players to get the fastest time while grabbing collectibles"
+                ],
+                "link": "https://people.rit.edu/lpd8987/330/project-2/about.html",
+                "git": "https://github.com/awc1437332/330_Project_2",
+                "img": "media/jello-jump.png"
+            },
+            {
+                "title" : "Animazione Italiana",
+                "created" : "April 2022 - May 2022",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-github\"></i> GitHub",
+                "details": "This is a website I created for my final project for my class about Modern Italian Cinema. Instead of writing a report, I chose to make it in a website format to make it more interactive and visually appealing- by having direct links to the films I discussed in the report. I had originally planned to have a forum/discussion section of the website, but it was a stretch goal I did not get to.",
+                "points": [
+                    "Academic/Independent project",
+                    "Report in website format",
+                    "Creative avenue for detailing information on a specific subject"
+                ],
+                "link": "https://people.rit.edu/lpd8987/351/",
+                "git": "https://github.com/lpd8987/AnimazioneItaliana",
+                "img": "media/italian-site.png"
+            },
+            {
+                "title" : "Eques",
+                "created" : "April 2021 - May 2021",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-square-js\"></i> PixiJS, <i class=\"fa-brands fa-github\"></i> GitHub",
+                "details": "This is a web game I created for my Web Technology for Game Developers class. It uses Pixi JS and basic JavaScipt functionality to make a text-based adventure game that allows for exploration and combat. The descriptions for each room are also adaptive depending on whether the player has visited/interacted with the room before.",
+                "points": [
+                    "Academic project",
+                    "Text-based adventure game",
+                    "Exploration and combat system",
+                    "Adaptive text"
+                ],
+                "link": "https://people.rit.edu/lpd8987/235/project3/game.html",
+                "git": "https://github.com/lpd8987/eques",
+                "img": "media/eques.png"
+            }
+        ]
+    }
+}
