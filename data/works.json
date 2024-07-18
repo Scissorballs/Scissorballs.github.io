@@ -32,20 +32,6 @@
                 "img": "media/doorPickers.png"
             },
             {
-                "title" : "Potions of Anxiety",
-                "created" : "October 2022 - November 2022",
-                "tech" : "<i class=\"fa-solid fa-pen-nib\"></i> Twine, <i class=\"fa-solid fa-paintbrush\"></i> Corel Painter Essentials 5, <i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript",
-                "details": "This is an interactive narrative I made for my Introduction to Interactive Narratives class in Fall 2022. Utilizing Twine, storytelling techniques, and basic CSS styling, I tried my hand at writing a narrative with multiple endings. ",
-                "points": [
-                    "Academic project",
-                    "Interactive narrative featuring player choice",
-                    "Basic CSS styling and HTML formatting",
-                    "First attempt at writing original story"
-                ],
-                "link": "https://people.rit.edu/lpd8987/529/Twine3/Potions%20of%20Anxiety.html",
-                "img": "media/potions-of-anxiety.png"
-            },
-            {
                 "title" : "Abaddon",
                 "created" : "January 2022 - May 2022",
                 "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 3D, <i class=\"fa-brands fa-unity\"></i> Unity HDRP Render Pipeline, <i class=\"fa-solid fa-code-branch\"></i> Perforce Version Control, <i class=\"fa-solid fa-file\"></i> Confluence (Documentation), <i class=\"fa-solid fa-code\"></i> C#",
@@ -97,25 +83,10 @@
         "description" : "Web applications, websites, and web games I have worked on over the past few years.",
         "content" : [
             {
-                "title" : "Coin Collector",
-                "created" : "November 2022 - December 2022",
-                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-node-js\"></i> NodeJS, <i class=\"fa-brands fa-react\"></i> ReactJS, <i class=\"fa-brands fa-node-js\"></i> ExpressJS, <i class=\"fa-brands fa-square-js\"></i> PixiJS, <i class=\"fa-solid fa-database\"></i> Mongo DB, <i class=\"fa-solid fa-database\"></i> Redis, <i class=\"fa-solid fa-server\"></i> Heroku, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-circle-notch\"></i> Circle CI",
-                "details": "I created this web application for my Rich Media Applications II class. The focus of the app is leveraging backend frameworks via NodeJS and Mongo DB to create the experience of an online game that people can log on and try to climb the leaderboard. The game itself is very simple, but challenging, and the website affords users a multitude of options update their account information.",
-                "points": [
-                    "Academic project",
-                    "Web application leveraging backend frameworks",
-                    "Simple, yet challenging game made with Pixi JS",
-                    "Account management system"
-                ],
-                "link": "https://ld-project-2.herokuapp.com/",
-                "git": "https://github.com/lpd8987/430-Project-2",
-                "img": "media/coin-collector.png"
-            },
-            {
                 "title" : "Appunti Italiani - API",
                 "created" : "September 2022 - October 2022",
                 "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-node-js\"></i> NodeJS, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-server\"></i> Heroku, <i class=\"fa-solid fa-circle-notch\"></i> Circle CI",
-                "details": "This is an API and web application I created for my Rich Media Applications II class. It is a simple API that uses Node JS to get vocabulary words and definititions from a list of terms for users to post to a central vocabulary study list. It is certainly a project that I would like to expand upon at some point due to my interest in Italian language.",
+                "details": "This is an API and web application I created with a friend for my Rich Media Applications II class. It is a simple API that uses Node JS to get vocabulary words and definititions from a list of terms for users to post to a central vocabulary study list. It is certainly a project that I would like to expand upon at some point due to my interest in Italian language.",
                 "points": [
                     "Academic project",
                     "Web application using Node JS and frontend languages",
@@ -126,46 +97,33 @@
                 "img": "media/italian-api.png"
             },
             {
-                "title" : "Dead by Memelight",
+                "title" : "Snake Evolution",
                 "created" : "August 2022",
                 "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> Local Storage",
-                "details": "This is a simple independent project I spent a few days creating in August 2022 for myself and my friends. Drawing from a set of data, it generates perk and gear loadouts either randomized or of my own creation for players. I am in no way affiliated with the Behaviour game studio, and I made it clear in the application itself that the app is fanmade and not officially affiliated with the game or studio. Regardless, the application served my friends and I well during our game nights, and anyone else who would like to use it is more than welcome to!",
-                "points": [
-                    "Independent project",
-                    "Web application using frontend languages",
-                    "Generates player builds and gear from a set of data"
-                ],
-                "link": "https://people.rit.edu/lpd8987/DeadByMemelight/",
-                "git": "https://github.com/lpd8987/DeadByMemelight",
-                "img": "media/dead-by-memelight.png"
-            },
-            {
-                "title" : "Jello Jump",
-                "created" : "April 2022 - May 2022",
-                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-html5\"></i> HTML Canvas, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> Local Storage, <i class=\"fa-brands fa-square-js\"></i> MatterJS, <i class=\"fa-brands fa-github\"></i> GitHub",
-                "details": "This is a project I worked on in tandem with a teammate for my Rich Media Applications I class. We created a 2D platformer web game using a combination of Matter JS- a physics simulation JavaScript framework, and HTML Canvas. Additional challenge was added to the game by posing the challenge to players to get the fastest time they could while grabbing collectibles. In particular, I spent most of my time setting up the game and its assets. My teammate was responsible for the overall styling of the site and our custom components",
+                "details": "I Collaborated with a partner to create a self-evolving Snake game using neural networks and a genetic algorithm. It uses neural networks and a genetic algorithm to produce artificially intelligent snakes that will attempt to navigate their boards, eat food, and avoid walls. Various parameters can be adjusted to change the way the simulation works. Additionally, you can save the neural networks you create to your computer to share around or use later!",
                 "points": [
                     "Academic project",
-                    "Web application and 2D platformer using frontend languages and frameworks",
-                    "Challenges players to get the fastest time while grabbing collectibles"
+                    "Web application using frontend languages",
+                    "Generate genetic algorithms to train artifically intelligent snakes",
+                    "Allows the storage and upload of achieved algorithms"
                 ],
-                "link": "https://people.rit.edu/lpd8987/330/project-2/about.html",
-                "git": "https://github.com/awc1437332/330_Project_2",
-                "img": "media/jello-jump.png"
+                "link": "https://people.rit.edu/hz1220/330/project-2/home.html",
+                "git": "https://github.com/DragonZBW/snake-evolution",
+                "img": "media/snake-evo.png"
             },
             {
-                "title" : "Animazione Italiana",
+                "title" : "Pokémon TCG Card Finder",
                 "created" : "April 2022 - May 2022",
-                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-github\"></i> GitHub",
-                "details": "This is a website I created for my final project for my class about Modern Italian Cinema. Instead of writing a report, I chose to make it in a website format to make it more interactive and visually appealing- by having direct links to the films I discussed in the report. I had originally planned to have a forum/discussion section of the website, but it was a stretch goal I did not get to.",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-html5\"></i> HTML Canvas, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> Local Storage, <i class=\"fa-brands fa-square-js\"></i> MatterJS, <i class=\"fa-brands fa-github\"></i> GitHub",
+                "details": "This is a project I worked on for my Rich Media Applications I class. I created a search engine for Pokémon cards using the offical Pokémon API. It is fully styled with Bulma, and utilizes custom DOM, local storage, cloud storage, and web components for full functionality.",
                 "points": [
-                    "Academic/Independent project",
-                    "Report in website format",
-                    "Creative avenue for detailing information on a specific subject"
+                    "Academic project",
+                    "Web application and search engine using frontend languages and frameworks",
+                    "Allows both the storing and purchasing of Pokémon cards"
                 ],
-                "link": "https://people.rit.edu/lpd8987/351/",
-                "git": "https://github.com/lpd8987/AnimazioneItaliana",
-                "img": "media/italian-site.png"
+                "link": "https://people.rit.edu/hz1220/330/project-1/home.html",
+                "git": "https://github.com/hz1220/tcg-card-finder",
+                "img": "media/tcg.png"
             },
             {
                 "title" : "Eques",
@@ -179,7 +137,7 @@
                     "Adaptive text"
                 ],
                 "link": "https://people.rit.edu/lpd8987/235/project3/game.html",
-                "git": "https://github.com/lpd8987/eques",
+                "git": "https://github.com/hz1220/eques",
                 "img": "media/eques.png"
             }
         ]
