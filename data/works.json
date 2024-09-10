@@ -126,21 +126,6 @@
                 "link": "https://people.rit.edu/hz1220/330/project-1/home.html",
                 "git": "https://github.com/hz1220/tcg-card-finder",
                 "img": "media/tcg.png"
-            },
-            {
-                "title" : "Eques",
-                "created" : "April 2021 - May 2021",
-                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-css3-alt\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> Bulma CSS, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-brands fa-square-js\"></i> PixiJS, <i class=\"fa-brands fa-github\"></i> GitHub",
-                "details": "This is a web game I created for my Web Technology for Game Developers class. It uses Pixi JS and basic JavaScipt functionality to make a text-based adventure game that allows for exploration and combat. The descriptions for each room are also adaptive depending on whether the player has visited/interacted with the room before.",
-                "points": [
-                    "Academic project",
-                    "Text-based adventure game",
-                    "Exploration and combat system",
-                    "Adaptive text"
-                ],
-                "link": "https://people.rit.edu/lpd8987/235/project3/game.html",
-                "git": "https://github.com/hz1220/eques",
-                "img": "media/eques.png"
             }
         ]
     }
