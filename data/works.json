@@ -1,11 +1,11 @@
 {
     "games" : {
-        "description" : "Games, prototypes, and other specifically game-related projects I have worked on over the past few years.",
+        "description" : "Games, prototypes, and other game-related projects I have worked on over the past few years.",
         "content" : [
             {
                 "title" : "Dragonscale",
                 "created" : "November 2023",
-                "tech" : "<i class=\"fa-solid fa-cube\"></i> Blender, <i class=\"fa-brands fa-github\"></i> Github, <i class=\"fa-brands fa-unity\"></i> Unity 3D, <i class=\"fa-brands fa-unity\"></i> Unity Universal Render Pipeline, <i class=\"fa-brands fa-unity\"></i> Unity Shader Graph, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> C#",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> GDScript, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> Godot",
                 "details": "A challenging platformer about returning a dragon's lost scale. Lead our daring protagonist Durg on this adventure! Produced with my GameJam group for the 2023 GitHub Game Off.",
                 "points": [
                     "Group GameJam project",
@@ -21,7 +21,7 @@
             {
                 "title" : "Door Pickers",
                 "created" : "February 2024",
-                "tech" : "<i class=\"fa-solid fa-code\"></i> Visual Studio Code, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> ParadoxScript",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> GDScript, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> Godot",
                 "details": "A point-and-click roguelike dungeon crawler that will test your mettle. Descend to the 15th floor of the dungeon and best the mighty Minotaur! Originally made with Godot in one week for Brackeys Game Jam 11. This game has received updates since the original jam submission.",
                 "points": [
                     "Group GameJam project",
@@ -33,6 +33,23 @@
                 "git": "https://github.com/hz1220/doorpickers",
                 "img": "media/doorPickers.png"
             },
+
+            {
+                "title" : "Nuke the Storm",
+                "created" : "September 2024",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> GDScript, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> Godot",
+                "details": "A strategic tower defense game about defending the USA from waves of unrelenting hurricanes.",
+                "points": [
+                    "Group GameJam project",
+                    "Utilizes fully self made assets",
+                    "Original game music",
+                    "Originally made with Godot"
+                ],
+                "link": "https://ample-ram.itch.io/nuke-the-storm",
+                "git": "https://github.com/hz1220/hillbilly-hurricane",
+                "img": "media/nuke_the_storm.png"
+            },
+
             {
                 "title" : "Abaddon",
                 "created" : "January 2022 - May 2022",
