@@ -126,6 +126,19 @@
                 "link": "https://people.rit.edu/hz1220/330/project-1/home.html",
                 "git": "https://github.com/hz1220/tcg-card-finder",
                 "img": "media/tcg.png"
+            },
+
+            {
+                "title" : "International S.T.E.M. Academy",
+                "created" : "May 2022 - Sept 2023",
+                "tech" : "<i class=\"fa-brands fa-html5\"></i> HTML, <i class=\"fa-brands fa-html5\"></i> CSS, <i class=\"fa-brands fa-css3-alt\"></i> BootStrap, <i class=\"fa-brands fa-css3-alt\"></i> Angular, <i class=\"fa-brands fa-square-js\"></i> JavaScript, <i class=\"fa-solid fa-box-open\"></i> React.js, <i class=\"fa-brands fa-github\"></i> GitHub",
+                "details": "Professional project during my time at International S.T.E.M. Academy as a Front End Web Developer. Designed and developed the website's frontend with a focus on user experience using HTML, CSS, Bootstrap, Angular, React.js, and JavaScript. Partnered with a cross-functional team, including designers and product managers, to deliver a user-centric and mobile-friendly website, ensuring seamless navigation and accessibility. ",
+                "points": [
+                    "Professional project",
+                    "Customer-facing web application using frontend languages and frameworks"
+                ],
+                "link": "https://internationalstemacademy.com/home",
+                "img": "media/ISA_logo.png"
             }
         ]
     }
