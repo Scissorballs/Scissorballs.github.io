@@ -3,21 +3,38 @@
         "description" : "Games, prototypes, and other game-related projects I have worked on over the past few years.",
         "content" : [
             {
-                "title" : "Dragonscale",
-                "created" : "November 2023",
-                "tech" : "<i class=\"fa-solid fa-code\"></i> GDScript, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> Godot",
-                "details": "A challenging platformer about returning a dragon's lost scale. Lead our daring protagonist Durg on this adventure! Produced with my GameJam group for the 2023 GitHub Game Off.",
+                "title" : "Wizdoku",
+                "created" : "September 2021 - October 2021",
+                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "This is a prototype puzzle game I worked on as part of a group project Game Development class. During this project, I acted as asset lead, helping guide the overall vision of the game through conceptualization and asset production and implementation. I also helped create the basic AI for the opponent.",
                 "points": [
-                    "Group GameJam project",
-                    "Utilizes fully self made assets",
-                    "Original textured and animated characters and UI assets",
-                    "Organized code",
-                    "Originally made with Godot"
+                    "Academic project",
+                    "2D puzzle game prototype featuring retro art style",
+                    "Asset production using Aseprite",
+                    "Basic enemy AI strategy (place tile) and tile effects"
                 ],
-                "link": "https://marsoupial.itch.io/dragonscale",
-                "git": "https://github.com/hz1220/dragonscale",
-                "img": "media/dragonscale.png"
+                "link" : "https://drive.google.com/file/d/1Rt5TuJuowQR3yeLGgneKMt5DjSomkKRL/view",
+                "git" : "https://github.com/Aaron875/WizDoku",
+                "img": "media/wizdoku.png"
             },
+
+            {
+                "title" : "The Dungeon Under Chicago",
+                "created" : "October 2021 - November 2021",
+                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
+                "details": "This is a prototype rouge-like I worked on as part of a group project Game Development class. During this project, I acted as project lead, helping guide the overall vision of the game through conceptualization and asset production using Aseprite to create and animate sprites. I also helped with some scripting behaviors and incorporation of level design. ",
+                "points": [
+                    "Academic project",
+                    "2D rouge-like prototype featuring retro art style",
+                    "Asset production using Aseprite",
+                    "Original game music",
+                    "Basic enemy AI scripting behaviors (shooting projectiles, follow player)"
+                ],
+                "link": "https://drive.google.com/file/d/15a3NdPe33SgQ-iY6E-pGK0sNPjiGkSqE/view",
+                "git": "https://github.com/Aaron875/The-Dungeon-Under-Chicago-",
+                "img": "media/dungeon.png"
+            },
+        
             {
                 "title" : "Door Pickers",
                 "created" : "February 2024",
@@ -51,6 +68,51 @@
             },
 
             {
+                "title" : "Dragonscale",
+                "created" : "November 2023",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> GDScript, <i class=\"fa-solid fa-bezier-curve\"></i> Adobe Illustrator, <i class=\"fa-solid fa-code\"></i> Godot",
+                "details": "A challenging platformer about returning a dragon's lost scale. Lead our daring protagonist Durg on this adventure! Produced with my GameJam group for the 2023 GitHub Game Off.",
+                "points": [
+                    "Group GameJam project",
+                    "Utilizes fully self made assets",
+                    "Original textured and animated characters and UI assets",
+                    "Organized code",
+                    "Originally made with Godot"
+                ],
+                "link": "https://marsoupial.itch.io/dragonscale",
+                "git": "https://github.com/hz1220/dragonscale",
+                "img": "media/dragonscale.png"
+            },
+
+            {
+                "title" : "Tigers & T-34s",
+                "created" : "April 2022",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> TBS, <i class=\"fa-solid fa-bezier-curve\"></i> Board Game, <i class=\"fa-solid fa-code\"></i> Historically Accurate",
+                "details": "Turn-based Strategy game featuring well-known tanks from the Battle of Kursk in World War II. I was the Lead Gameplay Designer, handling majority of the gameplay development, balancing, and card design. Also managed the accuracy of all historical references within the game.",
+                "points": [
+                    "Semester-long game prototype",
+                    "Tabletop Turn-based Strategy game",
+                    "Historically Accurate"
+                ],
+                "link": "https://drive.google.com/file/d/1ya5S9miOF_WAtO0MMXF7dTqguSPrFyZp/view?usp=sharing",
+                "img": "media/TNT.png"
+            },
+
+            {
+                "title" : "Of the Endless Sea",
+                "created" : "December 2022",
+                "tech" : "<i class=\"fa-solid fa-code\"></i> RPG, <i class=\"fa-solid fa-bezier-curve\"></i> Board Game, <i class=\"fa-solid fa-code\"></i> Game Design",
+                "details": "Space vikings Tabletop RPG Game designed and developed by me and my Game Design II group. On top of being the main designer and developer of gameplay, I also designed and balanced all playable classes and sub-classes, weapons, techniques, spells, and more.",
+                "points": [
+                    "Semester-long game prototype",
+                    "Tabletop RPG game designed and developed from the ground up",
+                    "Fully original universe, lore, characters, and classes"
+                ],
+                "link": "https://drive.google.com/file/d/1cqJZ6WMjUS2kPgTQPI4nAKNXJESmUKQO/view?usp=sharing",
+                "img": "media/OES.png"
+            },
+
+            {
                 "title" : "Abaddon",
                 "created" : "January 2022 - May 2022",
                 "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 3D, <i class=\"fa-brands fa-unity\"></i> Unity HDRP Render Pipeline, <i class=\"fa-solid fa-code-branch\"></i> Perforce Version Control, <i class=\"fa-solid fa-file\"></i> Confluence (Documentation), <i class=\"fa-solid fa-code\"></i> C#",
@@ -64,37 +126,6 @@
                 ],
                 "link": "https://joshmontague.itch.io/abaddon",
                 "img": "media/abaddon.png"
-            },
-            {
-                "title" : "The Dungeon Under Chicago",
-                "created" : "October 2021 - November 2021",
-                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
-                "details": "This is a prototype rouge-like I worked on as part of a group project Game Development class. During this project, I acted as project lead, helping guide the overall vision of the game through conceptualization and asset production using Aseprite to create and animate sprites. I also helped with some scripting behaviors and incorporation of level design. ",
-                "points": [
-                    "Academic project",
-                    "2D rouge-like prototype featuring retro art style",
-                    "Asset production using Aseprite",
-                    "Original game music",
-                    "Basic enemy AI scripting behaviors (shooting projectiles, follow player)"
-                ],
-                "link": "https://drive.google.com/file/d/15a3NdPe33SgQ-iY6E-pGK0sNPjiGkSqE/view",
-                "git": "https://github.com/Aaron875/The-Dungeon-Under-Chicago-",
-                "img": "media/dungeon.png"
-            },
-            {
-                "title" : "Wizdoku",
-                "created" : "September 2021 - October 2021",
-                "tech" : "<i class=\"fa-brands fa-unity\"></i> Unity 2D, <i class=\"fa-brands fa-github\"></i> GitHub, <i class=\"fa-solid fa-pencil\"></i> Aseprite, <i class=\"fa-solid fa-code\"></i> C#",
-                "details": "This is a prototype puzzle game I worked on as part of a group project Game Development class. During this project, I acted as asset lead, helping guide the overall vision of the game through conceptualization and asset production and implementation. I also helped create the basic AI for the opponent.",
-                "points": [
-                    "Academic project",
-                    "2D puzzle game prototype featuring retro art style",
-                    "Asset production using Aseprite",
-                    "Basic enemy AI strategy (place tile) and tile effects"
-                ],
-                "link" : "https://drive.google.com/file/d/1Rt5TuJuowQR3yeLGgneKMt5DjSomkKRL/view",
-                "git" : "https://github.com/Aaron875/WizDoku",
-                "img": "media/wizdoku.png"
             }
         ]
     },
